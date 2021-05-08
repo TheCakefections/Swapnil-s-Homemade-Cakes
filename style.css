@@ -51,7 +51,7 @@
     color: #c8a97e;
   }
   
-  /* ***************this below written code will work when our page content goes more than screen size or when it is scrolled 
+  /* ***************this below written code will work when our page content goes more than screen size or when it is scrolled*/
   
   .ftco-navbar-light.scrolled .nav-item.active > a {
     color: #c8a97e !important;
@@ -92,7 +92,7 @@
   }
   .ftco-navbar-light.scrolled .navbar-brand {
     color: #000000;
-  }*/
+  }
   
   a.navbar-brand {
     font-weight: 900;
