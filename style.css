@@ -51,7 +51,7 @@
     color: #c8a97e;
   }
   
-  /* ***************this below written code will work when our page content goes more than screen size or when it is scrolled */
+  /* ***************this below written code will work when our page content goes more than screen size or when it is scrolled 
   
   .ftco-navbar-light.scrolled .nav-item.active > a {
     color: #c8a97e !important;
@@ -98,7 +98,7 @@
     font-weight: 900;
     font-size: 20px;
     padding-left: 10%;
-  }
+  }*/
 
 /*cake index page carousel*/
 .owl-carousel {
