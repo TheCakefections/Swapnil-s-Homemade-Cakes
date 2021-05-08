@@ -23,7 +23,7 @@ AOS.init({
     };
     fullHeight(); //call that function
   
-    // navbar scroll
+    /* navbar scroll
     var scrollWindow = function () {
       $(window).scroll(function () {
         var $w = $(this),
@@ -63,7 +63,7 @@ AOS.init({
     };
     scrollWindow();
   
-    $.Scrollax();
+    $.Scrollax();*/
   
     //   carousel
     var carousel = function () {
