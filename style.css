@@ -94,7 +94,7 @@
     color: #000000;
   }*/
   
-  .navbar-brand {
+  a.navbar-brand {
     font-weight: 900;
     font-size: 20px;
     padding-left: 80px;
